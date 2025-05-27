@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorCodeFirstDB/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\models\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\migrations\\20250517111358_next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\migrations\\20250517111358_next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|c:\\users\\walton\\desktop\\book\\razormasterdetailscrud\\razormasterdetailscrud\\razormasterdetailscrud\\migrations\\20250517092244_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCC9B8-EBDA-46F1-92C3-D45D1471946C}|RazorMasterDetailsCrud\\RazorMasterDetailsCrud.csproj|solutionrelative:razormasterdetailscrud\\migrations\\20250517092244_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorCodeFirstDB/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T14:06:41.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\Student.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:59:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:12:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T12:14:30.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Models\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Models\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:00:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T10:51:51.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:11:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:49:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\appsettings.json",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T09:19:41.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:15:23.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwIgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T09:43:41.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:53:00.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250517111358_next.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Migrations\\20250517111358_next.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Migrations\\20250517111358_next.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Migrations\\20250517111358_next.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Migrations\\20250517111358_next.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:13:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Program.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Program.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:22:01.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T11:54:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:18:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250517092244_init.cs",
+              "DocumentMoniker": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Migrations\\20250517092244_init.cs",
+              "RelativeDocumentMoniker": "RazorMasterDetailsCrud\\Migrations\\20250517092244_init.cs",
+              "ToolTip": "C:\\Users\\WALTON\\Desktop\\Book\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\RazorMasterDetailsCrud\\Migrations\\20250517092244_init.cs",
+              "RelativeToolTip": "RazorMasterDetailsCrud\\Migrations\\20250517092244_init.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:22:44.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

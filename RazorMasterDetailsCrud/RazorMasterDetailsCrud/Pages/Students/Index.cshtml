@@ -1,0 +1,59 @@
+﻿@page
+@model RazorMasterDetailsCrud.Pages.Students.IndexModel
+@{
+    <p>
+        <a class="btn btn-primary" asp-page="./Create" >Create</a>
+    </p>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Students.First().StudentId)</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().StudentName)</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().AdmissionDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().MobileNo)</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().IsEnrolled)</th>
+                <th>Image</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().Course.CourseName)</th>
+                <th>@Html.DisplayNameFor(model => model.Students.First().RegistrationFee)</th>
+                <th>Modules</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="student-list-body">
+            @if (Model.Students.Any()){
+                @foreach (var item in Model.Students)
+                {
+                    <tr data-student-id="@item.StudentId">
+                        <td>@Html.DisplayFor(modelItem => item.StudentId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.StudentName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.AdmissionDate)</td>
+                        <td>@Html.DisplayFor(modelItem => item.MobileNo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.IsEnrolled)</td>
+                        <td>
+                            <img src="~/images/@item.ImageUrl" width="60" height="60" class="rounded" />
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.Course.CourseName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.RegistrationFee)</td>
+                        <td>
+                            <ul>
+                                @foreach (var m in item.Modules)
+                                {
+                                    <li>@m.ModuleName - @m.Duration</li>
+                                }
+                            </ul>
+                        </td>
+                        <td>
+                            <a class="btn btn-primary btn-sm edit-btn" href="/Students/Edit?id=@item.StudentId">Edit</a>
+                            <form method="post" asp-page="./Index" asp-page-handler="Delete">
+                                <input type="hidden" asp-for="@item.StudentId" name="id" />
+                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                               
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            
+        </tbody>
+    </table>
+}
